@@ -1,6 +1,7 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - Review yesterday’s notes
 - Check schedule
 - Set priorities
